@@ -1,7 +1,4 @@
-Hola Mundo !!
-
-a = 10;
-b = 2;
-
-c = a-b;
-
+int a = 12;
+int b= 2;
+int c = a/b;
+print(c);
